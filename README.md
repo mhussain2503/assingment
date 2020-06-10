@@ -1,2 +1,1 @@
-# assingment
-develop an app with bottom navigation , displaying an image using API call
+The app is develop using bottom tab navigator 
